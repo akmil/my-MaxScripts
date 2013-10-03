@@ -3,7 +3,7 @@
 createDialog unnamedRollout --width:300 height:400
 clearListener()
 CSPATH ="D:\\3dmax2009\\scenes\\TT-2\\char\\hero\\"  -- path to *.BIP file
-Main_path= "f:\\test\\"												  -- path to save render picture
+Main_path= "f:\\test\\"				                       -- path to save render picture
 --backgroundColor = color 253 192 153;	
 --theColor = backgroundColor 
 	

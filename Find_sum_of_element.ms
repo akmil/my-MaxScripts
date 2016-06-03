@@ -9,12 +9,12 @@ clearSelection()
 	 selectionSets["new_set"] = selection
  	 count = selection.count
 	 for i= 1 to count do
-(
+	(
 	SC[i] = getUserProp $G*[i] "price"
 	sum = sum +SC[i]
 	print (SC[i]) 
+	)	
 	
-)	
 print ("-----------") 
 print (sum) 
 print("fin" )
